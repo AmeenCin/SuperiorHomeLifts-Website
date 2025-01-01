@@ -1,0 +1,30 @@
+========== HEADER ==========
+.nav__logo
+Elevator
+
+.nav__link
+Home - About Us - Services - Projects - Contact Us
+
+
+========== HOME ==========
+.home__title
+Create The <br>
+Elevators <br>
+You Want Here
+
+
+.home__description
+We Provide the best Elevevators, instalation and maintenance services 
+for you and your family.
+
+.button
+Our Services
+
+.button__link
+
+
+========== HOME ==========
+.section__subtitle
+ABOUT US
+
+
