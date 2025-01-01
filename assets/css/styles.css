@@ -427,7 +427,8 @@ main {
 
 .about__description{
     margin-bottom: 2rem;
-    font-size: large;   
+    font-size: large; 
+    text-align: left;
     
 }
 
